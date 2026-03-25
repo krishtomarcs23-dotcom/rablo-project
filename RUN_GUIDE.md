@@ -24,7 +24,7 @@ medicine_reminder/
         │   ├── entity/
         │   │   ├── User.java // this is an important user
         │   │   ├── Medicine.java
-        │   │   ├── ReminderStatus.java
+        │   │   ├── ReminderStatus.java // added new comment
         │   │   ├── Prescription.java
         │   │   ├── Frequency.java // added new comment
         │   │   └── Status.java
