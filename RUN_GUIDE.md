@@ -8,7 +8,7 @@ medicine_reminder/
 └── src/
     └── main/
         ├── java/com/medicinereminder/
-        │   ├── MedicineReminderApplication.java
+        │   ├── Medi
         │   ├── config/
         │   │   ├── SecurityConfig.java
         │   │   ├── WebConfig.java
