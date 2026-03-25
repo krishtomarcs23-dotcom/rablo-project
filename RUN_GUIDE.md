@@ -1,7 +1,8 @@
 # Medicine Reminder - Quick Start Guide
 
-## Project Structure
-```
+## Project Structure 
+
+``` 
 medicine_reminder/
 ├── pom.xml
 ├── SPEC.md
@@ -26,10 +27,10 @@ medicine_reminder/
         │   │   ├── Medicine.java
         │   │   ├── ReminderStatus.java // added new comment
         │   │   ├── Prescription.java
-        │   │   ├── Frequency.java // added new comment
+        │   │   ├── Frequency.java
         │   │   └── Status.java
         │   ├── repository/
-        │   │   ├── UserRepository.java // this is a user repo
+        │   │   ├── UserRepository.java
         │   │   ├── MedicineRepository.java
         │   │   ├── ReminderStatusRepository.java
         │   │   └── PrescriptionRepository.java
