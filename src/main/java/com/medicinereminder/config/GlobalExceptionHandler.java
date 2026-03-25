@@ -28,7 +28,7 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(Exception.class)
     public String handleException(Exception e, Model model) {
         logger.error("Unexpected error: ", e);
-        model.addAttribute("error", "An unexpected error occurred: " + e.getMessage());
+        model.addAttribute("error", "error occurred: " + e.getMessage());
         return "error";
     }
 }

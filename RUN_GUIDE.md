@@ -22,11 +22,11 @@ medicine_reminder/
         │   │   ├── MedicineDTO.java
         │   │   └── DashboardDTO.java
         │   ├── entity/
-        │   │   ├── User.java
+        │   │   ├── User.java // this is an important user
         │   │   ├── Medicine.java
         │   │   ├── ReminderStatus.java
         │   │   ├── Prescription.java
-        │   │   ├── Frequency.java
+        │   │   ├── Frequency.java // added new comment
         │   │   └── Status.java
         │   ├── repository/
         │   │   ├── UserRepository.java
