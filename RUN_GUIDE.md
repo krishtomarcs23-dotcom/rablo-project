@@ -28,10 +28,10 @@ medicine_reminder/
         │   │   ├── ReminderStatus.java // added new comment
         │   │   ├── Prescription.java
         │   │   ├── Frequency.java // added new comment
-        │   │   └── Status.java 
+        │   │   └── Status.java // added new cooment on status.java
         │   ├── repository/
         │   │   ├── UserRepository.java // this is a user repo
-        │   │   ├── MedicineRepository.java // commenting on dev branch
+        │   │   ├── MedicineRepository.java // commenting on dev branch ,,
         │   │   ├── ReminderStatusRepository.java
         │   │   └── PrescriptionRepository.java
         │   └── service/
