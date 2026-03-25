@@ -1,20 +1,21 @@
 # Medicine Reminder - Quick Start Guide
 
-## Project Structure
-```
+## Project Structure 
+
+``` 
 medicine_reminder/
 ├── pom.xml
 ├── SPEC.md
 └── src/
     └── main/
         ├── java/com/medicinereminder/
-        │   ├── MedicineReminderApplication.java
+        │   ├── Medi
         │   ├── config/
         │   │   ├── SecurityConfig.java
         │   │   ├── WebConfig.java
         │   │   └── GlobalExceptionHandler.java
         │   ├── controller/
-        │   │   ├── AuthController.java
+        │   │   ├── AuthC
         │   │   ├── UserController.java
         │   │   └── AdminController.java
         │   ├── dto/
@@ -24,13 +25,13 @@ medicine_reminder/
         │   ├── entity/
         │   │   ├── User.java // this is an important user
         │   │   ├── Medicine.java
-        │   │   ├── ReminderStatus.java
+        │   │   ├── ReminderStatus.java // added new comment
         │   │   ├── Prescription.java
-        │   │   ├── Frequency.java
-        │   │   └── Status.java
+        │   │   ├── Frequency.java // added new comment
+        │   │   └── Status.java 
         │   ├── repository/
-        │   │   ├── UserRepository.java
-        │   │   ├── MedicineRepository.java
+        │   │   ├── UserRepository.java // this is a user repo
+        │   │   ├── MedicineRepository.java // commenting on dev branch
         │   │   ├── ReminderStatusRepository.java
         │   │   └── PrescriptionRepository.java
         │   └── service/
