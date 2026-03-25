@@ -29,7 +29,7 @@ medicine_reminder/
         │   │   ├── Frequency.java // added new comment
         │   │   └── Status.java
         │   ├── repository/
-        │   │   ├── UserRepository.java
+        │   │   ├── UserRepository.java // this is a user repo
         │   │   ├── MedicineRepository.java
         │   │   ├── ReminderStatusRepository.java
         │   │   └── PrescriptionRepository.java
