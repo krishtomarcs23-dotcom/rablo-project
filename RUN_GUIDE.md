@@ -14,7 +14,7 @@ medicine_reminder/
         │   │   ├── WebConfig.java
         │   │   └── GlobalExceptionHandler.java
         │   ├── controller/
-        │   │   ├── AuthController.java
+        │   │   ├── AuthC
         │   │   ├── UserController.java
         │   │   └── AdminController.java
         │   ├── dto/
