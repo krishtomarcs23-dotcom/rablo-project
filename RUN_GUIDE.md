@@ -3,7 +3,7 @@
 ## Project Structure 
 
 ``` 
-medicine_reminder/
+medicine_reminder/ // merge into next branch
 ├── pom.xml
 ├── SPEC.md
 └── src/
