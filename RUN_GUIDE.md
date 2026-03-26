@@ -5,7 +5,7 @@
 ``` 
 medicine_reminder/ // merge into next branch
 ├── pom.xml
-├── SPEC.md
+├── SPEC.md // comment
 └── src/
     └── main/
         ├── java/com/medicinereminder/
